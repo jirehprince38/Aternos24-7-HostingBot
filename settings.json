@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
+    "username": "Banana_16341",
+    "password": "pogiako16341",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "jirehpogi.aternos.me:33195",
+    "port": 33195,
     "version": "",
     "try-creative": false
   },
