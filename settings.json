@@ -7,7 +7,7 @@
   },
   "server": {
 
-    "ip": "jirehpogi.aternos.me:33195",
+    "ip": "jirehpogi.aternos.me",
     "port": 33195,
     "version": "1.21.11",
     "try-creative": false
